@@ -4,7 +4,7 @@ const Welcome = () => {
   return (
     <>
       <Alert> Libri come se piovesse! 😂 </Alert>
-      <p>Tutti i libri che cerchi nel tuo shop preferito!</p>
+      <h1>Tutti i libri che cerchi nel tuo shop preferito!</h1>
     </>
   );
 };
