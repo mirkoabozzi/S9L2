@@ -1,6 +1,6 @@
 const MyFooter = () => {
   return (
-    <footer className="footer">
+    <footer className="footer my-5">
       <div>
         <a href="#"></a>
         <span>&copy; 2024 EpicBook Labs.</span>
